@@ -15,8 +15,10 @@ Create a professional presentation summarizing the project and its methodology.
 Useful Links
 
 Public Notion Kanban: 👉 Open Kanban Board
+https://www.notion.so/2873594c3bd8819aa264d299c8f1fcb7?v=2873594c3bd881c283c1000c3472b919
 
 Technological Watch Tool: Feedly
+https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fjavascriptweekly.com%2Frss
 
 Summary
 This project provided the opportunity to apply Agile/Scrum methodology, structure work through Kanban organization, and formalize technical decisions using a technological watch.
