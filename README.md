@@ -21,6 +21,7 @@ Technological Watch Tool: Feedly
 https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fjavascriptweekly.com%2Frss
 
 Summary
+
 This project provided the opportunity to apply Agile/Scrum methodology, structure work through Kanban organization, and formalize technical decisions using a technological watch.
 It represents an essential step in my web development journey — combining organization, methodology, and modern technologies such as React, Redux Toolkit, MongoDB, and Axios.
 
