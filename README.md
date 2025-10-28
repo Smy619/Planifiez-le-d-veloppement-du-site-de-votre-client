@@ -15,7 +15,7 @@ Create a professional presentation summarizing the project and its methodology.
 Useful Links
 
 Public Notion Kanban: 👉 Open Kanban Board
-https://www.notion.so/2873594c3bd8819aa264d299c8f1fcb7?v=2873594c3bd881c283c1000c3472b919
+https://abaft-crystal-ad0.notion.site/2873594c3bd8819aa264d299c8f1fcb7?v=2873594c3bd881c283c1000c3472b919&source=copy_link
 
 Technological Watch Tool: Feedly
 https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fjavascriptweekly.com%2Frss
