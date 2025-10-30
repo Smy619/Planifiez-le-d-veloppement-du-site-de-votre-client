@@ -28,6 +28,6 @@ It represents an essential step in my web development journey — combining orga
 Author
 
 Sun Ting
-📧 solene.s2025@gmail.com
+📧 contact@solenesun.com
 
 🌐 Portfolio (in progress)
